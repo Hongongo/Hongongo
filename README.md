@@ -1,4 +1,4 @@
-## Hi!! My name is Jo
+## Hi!! I'm Jo
 #### I am a full stack Developer
 
 
