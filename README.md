@@ -1,5 +1,4 @@
-![I am a full stack Developer](https://firebasestorage.googleapis.com/v0/b/lannow-efa7a.appspot.com/o/code_banner.png?alt=media&token=3579d4b1-f002-42ee-aa89-de897a199ee1)
-## Ssssup!! My name is Jo
+## Hi!! My name is Jo
 #### I am a full stack Developer
 
 
